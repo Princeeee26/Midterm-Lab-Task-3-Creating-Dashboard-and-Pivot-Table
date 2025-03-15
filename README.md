@@ -26,5 +26,42 @@ This portfolio presents an interactive Excel dashboard designed to uncover insig
 - Test slicers to ensure they work correctly
 
 # Screenshots Captured During Analysis
-- Sal by role
-![screenshot]()
+- Salary by role
+  
+![screenshot](Images/Sal-by-role.jpg)
+
+- Salary by size
+
+![screenshot](Images/Sal-by-size.jpg)
+
+- Salary by state
+
+![screenshot](Images/Sal-by-state.jpg)
+
+- Salary be sector
+
+![screenshot](Images/Salary-by-sector.jpg)
+
+- Sector by size
+
+![screenshot](Images/Sector-by-size.jpg)
+
+
+# Dashboard
+
+![screenshot](Images/Dashboard1.jpg)
+
+![screenshot](Images/Dashboard2.jpg)
+
+
+# US STATES map with Numbers of Employed in Data Science Careers
+
+![screenshot](Images/Map.jpg)
+
+
+
+
+
+
+
+
